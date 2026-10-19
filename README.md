@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6366F1&text=📰+TECHNEWS+TODAY&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=💻+Desafio+CSS+-+Aula+10&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=38BDF8&text=📰+TECHNEWS+TODAY&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=💻+Desafio+CSS+-+Aula+10&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6366F1&center=true&vCenter=true&width=750&lines=📰+Sobre+a+Atividade;🌙+Portal+de+Not%C3%ADcias+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=📰+Sobre+a+Atividade;🌙+Portal+de+Not%C3%ADcias+Tech)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,7 @@ O projeto apresenta uma notícia em destaque sobre inteligência artificial, uma
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6366F1&center=true&vCenter=true&width=750&lines=🎯+Objetivo+da+Atividade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=🎯+Objetivo+da+Atividade)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,7 +34,7 @@ Desenvolver a estilização do portal com **CSS puro**, aplicando conceitos de l
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6366F1&center=true&vCenter=true&width=750&lines=🧩+Recursos+Implementados)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=🧩+Recursos+Implementados)](https://git.io/typing-svg)
 
 </div>
 
@@ -57,7 +57,7 @@ Desenvolver a estilização do portal com **CSS puro**, aplicando conceitos de l
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6366F1&center=true&vCenter=true&width=750&lines=📋+Arquivos+do+Projeto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=📋+Arquivos+do+Projeto)](https://git.io/typing-svg)
 
 </div>
 
@@ -75,7 +75,7 @@ Desenvolver a estilização do portal com **CSS puro**, aplicando conceitos de l
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6366F1&center=true&vCenter=true&width=750&lines=⚙️+Especifica%C3%A7%C3%B5es+T%C3%A9cnicas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=⚙️+Especifica%C3%A7%C3%B5es+T%C3%A9cnicas)](https://git.io/typing-svg)
 
 </div>
 
@@ -93,5 +93,5 @@ Desenvolver a estilização do portal com **CSS puro**, aplicando conceitos de l
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=6366F1&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=38BDF8&animation=fadeIn" width="100%" />
 </div>
