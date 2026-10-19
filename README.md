@@ -1,32 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0F172A&text=📱+TECHNEWS+TODAY&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=💻+Desafio+CSS+-+Aula+10&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6366F1&text=📰+TECHNEWS+TODAY&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=💻+Desafio+CSS+-+Aula+10&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=📰+Sobre+a+Atividade;🌙+Portal+de+Not%C3%ADcias+Tech)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-Este projeto faz parte da **Atividade Aula 10 – TechNews Today**, com foco na estilização de um portal de notícias sobre tecnologia usando **CSS3** e mantendo a estrutura original em **HTML5**.
-
-A página apresenta um destaque sobre inteligência artificial, uma área de vídeo e um formulário de newsletter, com visual moderno em tema escuro.
-
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=🎯+Objetivo+da+Atividade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6366F1&center=true&vCenter=true&width=750&lines=📰+Sobre+a+Atividade;🌙+Portal+de+Not%C3%ADcias+Tech)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-🎨 Transformar a página em um portal moderno e responsivo, utilizando **CSS puro**, sem frameworks, sem JavaScript e sem modificar o HTML original.
+Esta atividade da **Aula 10 – TechNews Today** consiste em transformar uma página de notícias sobre tecnologia em um portal moderno, utilizando **CSS3** para criar uma interface escura, visualmente atraente e responsiva, sem alterar a estrutura HTML fornecida.
+
+O projeto apresenta uma notícia em destaque sobre inteligência artificial, uma seção de vídeo e um formulário de newsletter.
 
 </div>
 
@@ -34,22 +20,36 @@ A página apresenta um destaque sobre inteligência artificial, uma área de ví
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=🧩+Recursos+Implementados)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6366F1&center=true&vCenter=true&width=750&lines=🎯+Objetivo+da+Atividade)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-🧱 **HTML semântico:** organização com <strong>header</strong>, <strong>main</strong>, <strong>article</strong>, <strong>section</strong> e <strong>footer</strong>.<br>
-🌙 **Tema escuro:** fundo em degradê e cores inspiradas em interfaces modernas.<br>
-🪟 **Glassmorphism:** cartões translúcidos com <strong>backdrop-filter</strong>, bordas suaves e cantos arredondados.<br>
-🌈 **Texto em degradê:** destaque visual para o título principal da notícia.<br>
-📌 **Cabeçalho fixo:** uso de <strong>position: sticky</strong> para manter o cabeçalho visível durante a rolagem.<br>
+Desenvolver a estilização do portal com **CSS puro**, aplicando conceitos de layout, efeitos visuais e responsividade. A atividade reforça o uso de **glassmorphism**, gradientes, **CSS Grid**, cabeçalho com `position: sticky` e media queries, sem frameworks ou JavaScript.
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6366F1&center=true&vCenter=true&width=750&lines=🧩+Recursos+Implementados)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+🌙 **Tema escuro:** fundo profundo e cores de alto contraste.<br>
+🪟 **Glassmorphism:** cabeçalho translúcido com desfoque usando `backdrop-filter`.<br>
+🌈 **Texto em degradê:** título da marca estilizado com gradiente azul-arroxeado e rosa.<br>
 📐 **CSS Grid:** organização do conteúdo em colunas em telas maiores.<br>
-📱 **Responsividade:** media queries para adaptar o layout a dispositivos menores.<br>
-📖 **Leia mais:** elemento <strong>details</strong> com <strong>summary</strong>, sem JavaScript.<br>
-📺 **Vídeo:** incorporação de conteúdo do YouTube por meio de <strong>iframe</strong>.<br>
-📧 **Newsletter:** formulário com e-mail, área de interesse, checkbox e validação nativa do navegador.
+📌 **Cabeçalho sticky:** permanece visível durante a rolagem da página.<br>
+📰 **Artigo em destaque:** cartão com gradiente, bordas arredondadas e efeito ao passar o mouse.<br>
+📖 **Leia mais:** elemento `details` com `summary`, sem JavaScript.<br>
+📺 **Vídeo incorporado:** iframe do YouTube com borda estilizada.<br>
+📧 **Newsletter:** formulário com e-mail, seleção de interesse, checkbox e validação nativa.<br>
+📱 **Responsividade:** media query para adaptar o layout a telas maiores.
 
 </div>
 
@@ -57,7 +57,7 @@ A página apresenta um destaque sobre inteligência artificial, uma área de ví
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=📋+Arquivos+do+Projeto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6366F1&center=true&vCenter=true&width=750&lines=📋+Arquivos+do+Projeto)](https://git.io/typing-svg)
 
 </div>
 
@@ -65,9 +65,9 @@ A página apresenta um destaque sobre inteligência artificial, uma área de ví
 
 | Arquivo | Descrição |
 |---|---|
-| `desafio10a.html` | Estrutura semântica do portal de notícias. |
-| `10a_desafio.css` | Estilização do portal com CSS puro, em até 50 linhas. |
-| [`assets/technews-today.zip`](assets/technews-today.zip) | Arquivo compactado com os arquivos da atividade. |
+| `desafio10a.html` | Estrutura HTML semântica do portal TechNews Today. |
+| `10a_desafio.css` | Estilos do portal: cores, gradientes, cartões, Grid e responsividade. |
+| [`assets/technews-today.zip`](assets/technews-today.zip) | Arquivo compactado com o HTML e o CSS da atividade. |
 
 </div>
 
@@ -75,7 +75,7 @@ A página apresenta um destaque sobre inteligência artificial, uma área de ví
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=⚙️+Especifica%C3%A7%C3%B5es+T%C3%A9cnicas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6366F1&center=true&vCenter=true&width=750&lines=⚙️+Especifica%C3%A7%C3%B5es+T%C3%A9cnicas)](https://git.io/typing-svg)
 
 </div>
 
@@ -84,14 +84,14 @@ A página apresenta um destaque sobre inteligência artificial, uma área de ví
 | Especificação | Implementação |
 |---|---|
 | 💻 Linguagens | HTML5 e CSS3 |
-| 🎨 Estilo | Tema escuro com gradientes e glassmorphism |
-| 📐 Layout | CSS Grid e Flexbox |
-| 📱 Compatibilidade | Layout responsivo com media queries |
+| 🎨 Identidade visual | Tema escuro com gradientes |
+| 🪟 Efeitos | Glassmorphism e transições CSS |
+| 📐 Layout | CSS Grid |
+| 📱 Responsividade | Media query a partir de 768px |
 | 🧰 Dependências | Sem frameworks e sem JavaScript |
-| 📏 Limite do CSS | Até 50 linhas |
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0F172A&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=6366F1&animation=fadeIn" width="100%" />
 </div>
