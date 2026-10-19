@@ -1,0 +1,20 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Arial,sans-serif;background:linear-gradient(135deg,#0f172a,#1e293b);color:#f8fafc;min-height:100vh}
+.cabecalho{position:sticky;top:0;z-index:10;padding:25px;text-align:center;background:#0f172acc;backdrop-filter:blur(12px);border-bottom:1px solid #ffffff26}
+.logo{font-size:2rem}.tagline{margin-top:8px;color:#cbd5e1}
+.conteudo{max-width:1100px;margin:auto;padding:40px 20px}
+.artigo-destaque{text-align:center;margin-bottom:30px}
+.artigo-destaque h2{font-size:2.5rem;background:linear-gradient(90deg,#38bdf8,#a78bfa);-webkit-background-clip:text;color:transparent}
+.data{display:block;margin:10px;color:#94a3b8}
+.leia-mais,.secao-video,.secao-newsletter{padding:20px;background:#ffffff0d;border:1px solid #ffffff26;border-radius:16px;backdrop-filter:blur(10px)}
+.leia-mais{margin-top:15px}
+.secao-video,.secao-newsletter{margin-top:25px}
+.secao-video iframe{width:100%;max-width:500px;border:0;border-radius:10px}
+.form-newsletter{display:grid;gap:10px}
+.form-newsletter input,.form-newsletter select,.btn-inscrever{padding:12px;border:0;border-radius:8px}
+.btn-inscrever{cursor:pointer;background:linear-gradient(90deg,#38bdf8,#8b5cf6);color:white;font-weight:bold}
+.checkbox-container{display:flex;gap:8px;align-items:center}
+.rodape{padding:25px;text-align:center;color:#94a3b8}
+.rodape a{color:#38bdf8}
+@media(min-width:700px){.conteudo{display:grid;grid-template-columns:1fr 1fr;gap:25px}.artigo-destaque{grid-column:1/-1}.secao-newsletter{margin-top:0}}
+@media(max-width:600px){.artigo-destaque h2{font-size:2rem}}
