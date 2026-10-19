@@ -65,9 +65,9 @@ Desenvolver a estilização do portal com **CSS puro**, aplicando conceitos de l
 
 | Arquivo | Descrição |
 |---|---|
-| `desafio10a.html` | Estrutura HTML semântica do portal TechNews Today. |
-| `10a_desafio.css` | Estilos do portal: cores, gradientes, cartões, Grid e responsividade. |
-| [`assets/technews-today.zip`](assets/technews-today.zip) | Arquivo compactado com o HTML e o CSS da atividade. |
+| [`assets/projeto10aHTML.png`](assets/projeto10aHTML.png) | Imagem referência da estrutura HTML semântica do portal TechNews Today. |
+| [`assets/projeto10aCSS.png`](assets/projeto10aCSS.png) | Imagem referência dos estilos do portal: cores, gradientes, cartões, Grid e responsividade. |
+| [`assets/technews-today.zip`](assets/ATV_TechNewsToday.zip) | Arquivo compactado com o HTML e o CSS da atividade. |
 
 </div>
 
