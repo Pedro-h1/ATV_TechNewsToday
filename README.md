@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=38BDF8&text=📰+TECHNEWS+TODAY&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=💻+Desafio+CSS+-+Aula+10&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:A25CED,100:5649ED&text=📰+TECHNEWS+TODAY&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=💻+Desafio+CSS+-+Aula+10&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -93,5 +93,5 @@ Desenvolver a estilização do portal com **CSS puro**, aplicando conceitos de l
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=38BDF8&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:5649ED,100:A25CED&animation=fadeIn" width="100%" />
 </div>
