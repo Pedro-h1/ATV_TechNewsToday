@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=%F0%9F%93%B0+Portal+TechNews+Today" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=%F0%9F%8E%AF+Objetivo+da+Atividade" />
 </div>
 <div align="center">
     <p>Desenvolver a estilização do portal com <strong>CSS puro</strong>, aplicando conceitos de layout, efeitos visuais e responsividade. A atividade reforça o uso de <strong>glassmorphism</strong>, gradientes, <strong>CSS Grid</strong>, cabeçalho com `position: sticky` e media queries, sem frameworks ou JavaScript.</p>
@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=%F0%9F%93%B0+Portal+TechNews+Today" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=%F0%9F%A7%A9+Recursos+Implementados" />
 </div>
 <div align="center">
     <p>🌙 <strong>Tema escuro:</strong> fundo profundo e cores de alto contraste.</p>
@@ -39,7 +39,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=%F0%9F%93%B0+Portal+TechNews+Today" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=%F0%9F%93%8B+Arquivos+do+Projeto" />
 </div>
 <div align="center">
 
@@ -54,7 +54,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=%F0%9F%93%B0+Portal+TechNews+Today" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=38BDF8&center=true&vCenter=true&width=750&lines=%E2%9A%99%EF%B8%8F+Especifica%C3%A7%C3%B5es+T%C3%A9cnicas" />
 </div>
 <div align="center">
 
